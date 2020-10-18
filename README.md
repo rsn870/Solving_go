@@ -36,7 +36,9 @@ Req Steps:
       #Great Idea! Would make for some interesting scenarios
       .Finally display reward
       #Not needed per se. Store game data in disk for each game and then display. Images showing board state would be great
+      #need to specify exactly what data to be stored. Complete set of moves? Only Rewards and actions or just final results
       
  Fn to use above fn to train class over multiple sets of games.
  (Is this req for Heuristic Reward? Only real reward seems to demand this fn)
  #This function is reward agnostic i.e You can switch between either
+ #Yes, but if the reward is heuristic, completion of game is not a requirement per se
