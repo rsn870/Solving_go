@@ -1,5 +1,5 @@
 # Solving_go
-# Trial_1:
+Trial_1:
 # Q learning with 100% Heuristic Reward, epsilon greedy policy
 (Look at the raw file for a better view)
 '''
